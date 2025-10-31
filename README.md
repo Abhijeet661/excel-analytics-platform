@@ -26,3 +26,17 @@ The project demonstrates file handling, Excel parsing, API integration, and fron
 ---
 
 ## 🗂️ Folder Structure
+excel-analytics-platform/
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   ├── controllers/
+│   ├── models/
+│   └── .env
+│
+└── frontend/
+├── src/
+├── public/
+└── package.json
+
